@@ -1,0 +1,13 @@
+@import url("CSS/header.css");
+@import url("CSS/sobre.css");
+
+:root {
+    --fonte-principal: 'Inter';
+    --cor-primaria: #667085;
+    --branco: #ffffff;
+    --cor-vinho: #8E2424;
+}
+
+body {
+    background-color: var(--branco);
+}
