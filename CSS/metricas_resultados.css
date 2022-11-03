@@ -1,0 +1,30 @@
+.container__metricas {
+    display: flex;
+    justify-content: space-around;
+    font-family: var(--fonte-principal);
+    padding: 0 0 96px 0;
+}
+
+.metrica__resultados {
+    width: 280px;
+}
+
+.metrica__titulo {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--cor-vinho);
+}
+
+.metrica__subtitulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-titulo);
+    margin: 1em 0 .5em 0;
+}
+
+.metrica__texto {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: var(--cor-primaria);
+}

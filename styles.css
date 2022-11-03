@@ -1,5 +1,6 @@
 @import url("CSS/menu_navegacao.css");
 @import url("CSS/header.css");
+@import url("CSS/metricas_resultados.css");
 
 :root {
     --fonte-principal: 'Inter';
