@@ -1,0 +1,32 @@
+.conteudo__busca-talentos {
+    font-family: var(--fonte-principal);
+    text-align: center;
+}
+
+.busca-talentos__texto {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--cor-vinho);
+    background: rgba(142, 36, 36, 0.05);
+    padding: 4px 12px;
+    border-radius: 16px;
+    display: inline;
+}
+
+.busca-talentos__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cor-titulo);
+    margin: .5em 0;
+}
+
+.busca-talentos__descricao {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cor-primaria);
+    margin-bottom: 3em;
+}
+
+.busca-talentos__imagem {
+    margin-bottom: 64px;
+}
