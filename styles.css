@@ -2,6 +2,7 @@
 @import url("CSS/header.css");
 @import url("CSS/metricas_resultados.css");
 @import url("CSS/conteudo__busca-talentos.css");
+@import url("CSS/secao_vagas.css");
 
 :root {
     --fonte-principal: 'Inter';
@@ -9,6 +10,7 @@
     --branco: #ffffff;
     --cor-vinho: #8E2424;
     --cor-titulo: #101828;
+    --cor-borda: #EAECF0;
 }
 
 body {

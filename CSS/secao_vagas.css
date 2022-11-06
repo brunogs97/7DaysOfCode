@@ -1,0 +1,43 @@
+.secao__vagas {
+    font-family: var(--fonte-principal);
+    width: 768px;
+    margin: 0 auto;
+}
+
+.vagas__area {
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--cor-titulo);
+    margin-bottom: 1em;
+    text-align: left;
+}
+
+.conteudo__vagas {
+    border: 1px solid var(--cor-borda);
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 1em;
+
+}
+
+.vagas__titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-titulo);
+}
+
+.vagas__informacoes {
+    display: flex;
+    margin-top: 1.3em;
+}
+
+.vagas__descricao {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--cor-primaria);
+    margin-right: 1em;
+}
+
+.vagas__titulo-desenvolvedor {
+    margin-top: 3em;
+}
