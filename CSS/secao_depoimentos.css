@@ -1,0 +1,36 @@
+.secao__depoimentos {
+    width: 80vw;
+    margin: 5em auto;
+    font-family: var(--fonte-principal);
+    background: var(--cor-de-fundo-depoimento);
+    text-align: center;
+    padding: 64px;
+    border-radius: 16px;
+}
+
+.depoimento__texto {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--cor-vinho);
+}
+
+.depoimento__titulo {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 44px;
+    color: var(--cor-titulo);
+    margin: 1em 0;
+}
+
+.depoimento__nome-colaboradora {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--cor-titulo);
+    margin: 1em 0;
+}
+
+.depoimento__funcao-colaboradora {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cor-primaria);
+}
