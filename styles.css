@@ -4,6 +4,7 @@
 @import url("CSS/conteudo__busca-talentos.css");
 @import url("CSS/secao_vagas.css");
 @import url("CSS/secao_depoimentos.css");
+@import url("CSS/rodape.css");
 
 :root {
     --fonte-principal: 'Inter';
@@ -12,7 +13,10 @@
     --cor-vinho: #8E2424;
     --cor-titulo: #101828;
     --cor-borda: #EAECF0;
-    --cor-de-fundo-depoimento: rgba(196, 25, 25, 0.03);;
+    --cor-de-fundo-depoimento: rgba(196, 25, 25, 0.03);
+    --cor-de-fundo-rodape: #F9FAFB;
+    --cor-borda-rodape: #D0D5DD;
+    --cor-copyrigth: #98A2B3;
 }
 
 body {
